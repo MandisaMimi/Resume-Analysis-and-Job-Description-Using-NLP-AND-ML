@@ -1,0 +1,15 @@
+shap==0.44.0
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+lime
+streamlit
+pandas
+plotly
+wordcloud
+matplotlib
+nltk
+catboost
+joblib
+PyPDF2
+python-docx
